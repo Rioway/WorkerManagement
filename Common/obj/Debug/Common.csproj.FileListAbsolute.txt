@@ -1,0 +1,6 @@
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\bin\Debug\Common.dll
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\bin\Debug\Common.pdb
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\obj\Debug\Common.dll
+E:\QQ文档\784168415\FileRecv\WorkerManagement\WorkerManagement\WorkerManagement\Common\obj\Debug\Common.pdb
