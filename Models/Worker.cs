@@ -24,7 +24,9 @@ namespace Models
         public string PhotoPath { get; set; }
         //性别
         public string Gender { get; set; }
-        //测试
+        //测试1
         //测试修改文件上传
+        //测试2
+        //远程以更改，把更新本地文件
     }
 }
